@@ -38,6 +38,10 @@
     max-width: 440px;
 }
 
+.header_professional-image:hover{
+    border: orange solid px;
+}
+
 .footer{
     display: flex;
     gap: 1rem;
